@@ -1,0 +1,16 @@
+[{
+  "id": 1,
+  "icon": "el-icon-delete",
+  "label": "一级1",
+  "isLeaf": false
+}, {
+  "id": 2,
+  "isLeaf": false,
+  "icon": "el-icon-delete",
+  "label": "二级2"
+}, {
+  "id": 3,
+  "icon": "el-icon-delete",
+  "label": "三级3",
+  "isLeaf": false
+}]
